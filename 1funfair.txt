@@ -1,0 +1,18 @@
+Game				Player_name	Bet_money	Money_come_to_owner	Money_go_from_owner
+
+NUMBER GUESSING GAME		Nitin Chaudhary		10.0			10.0			0.0
+
+SNAKE AND LADDER GAME		Ankur chaudhary		20.0			10.0			0.0
+
+STONE,PAPER,SCISSOR GAME	Arya gandhi		20.0			20.0			0.0
+
+ TIC TAC TOE GAME		Jigyasa sumani		10.0			0.0			5.0
+
+COUNTRY GUESSING GAME		Akshansh modi		40.0			20.0			0.0
+
+MAGIC GAME			arun		0.0			0.0			0.0
+
+
+Owners net profit is Rupees 55.0
+
+
